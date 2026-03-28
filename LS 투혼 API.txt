@@ -1,0 +1,17 @@
+투혼 API
+APIKEY
+{"appkey":"PSI1C8ECYYpQpAjV1bixWR6tIbYTJxiO0h8w"
+APISECRET "appsecret":"nvECBCD5V9YgZi0Lgz1qJLl36GLbO9ra"} 
+            
+katomcan
+GUSwjd11
+GUSwjd110*
+1231   3411**3
+002 708957 01
+
+OPEN API 
+https://openapi.ls-sec.co.kr/apiservice?group_id=ffd2def7-a118-40f7-a0ab-cd4c6a538a90&api_id=33bd887a-6652-4209-88cd-5324bc7c5e36
+
+Your IPv4 address is:
+
+112.220.210.26
